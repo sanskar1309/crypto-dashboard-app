@@ -1,0 +1,8 @@
+{
+    "rules": {
+      // Example: Set specific rule to "warn" level
+      "no-console": "warn",
+      "no-unused-vars": "warn"
+    }
+  }
+  
